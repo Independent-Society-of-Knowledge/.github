@@ -27,22 +27,3 @@ Firstly, there's a lot of work in these areas that has not been done, and if not
 
 Second, having an open source community of scientific cmoputations would certainly benefit first and foremost the scientists in those areas.
 
-# No Authority
-We believe that academia should be accessible to individuals, to participate their own ideas and enthusiasm into it. It should be clear that economy and science has been helping each other through centuries, but the pay offs for science wasn't so great. In our opinion scientists who bring better understanding of the nature, or inventing devices that would power our economy, should gain from it. Be it better grants or better projects that they can work on. Science perdominantly is under the authority of academic, it has to change in order to be able to grow.
-
-Independent Society of Knowledge, tries to achieve this goal, it do so by being decentralized, meaning that many participants from every corner of the world can colaborate in science, but at the same time, the sponsorships and grants can be sent directly to scientists and people working on the interested projects. This helps the economy have a first hand connection with scientific society for the first time.
-
-# Membership
-There are three types of colaboration in ISK, (1) Directors, (2) Members, (3) Community. Directors are the people found by the society itself, that are thought to be able to handle the teamwork and the project as a whole. As an example assuming a project working on numerical analysis of general relativity, it certainly needs people, whose proficiency has been approved by the society that can handle evaluation of other members work. Or bringing new ideas to the table. In general the directors should present the bigger plan of the projects. A director can be chosen from Members or just by proposals.
-
-Members are official community people who have been invited to be officially a member, this membership doesn't bring any more power than a community member, but it would evaluate your proposals and research programs more seriously.
-
-Any enthusiast can colaborate on projects via the community membership. They are allowed to work on the subjects that seemes interesting to them, and probably to many others. Community membership is the open community of people that does not need any permission or invitation to join.
-
-# Proposals
-Anyone, regardless of their memebrship, or proficiency can propose research programs, lectures, seminars etc, to the society. We (the society) would consider all of the research areas, approving or disproving wouldn't be a matter for ISK, but instead it might be the case that the research is not considered good enough and the society would not accept it. After proposing a project, people would join the project, under you as the director. Other directors might aswell get in the project for a better result.
-
-# Defining Independent Society of Knowledge
-At the end let us give a simple definition of ISK.
-
-Independent Society of Knowledge, is a decentralized, open, collaboration, of scientists from all over the world under the slogan One for All, All for Science.
