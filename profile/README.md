@@ -27,3 +27,5 @@ Firstly, there's a lot of work in these areas that has not been done, and if not
 
 Second, having an open source community of scientific cmoputations would certainly benefit first and foremost the scientists in those areas.
 
+Contact me
+project@thisismeamir.com
