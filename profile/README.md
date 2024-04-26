@@ -1,4 +1,5 @@
-![Uploading Main Cover.png…]()
+![Main Cover](https://github.com/Independent-Society-of-Knowledge/.github/assets/76442288/ffa7b812-0707-4cd1-9040-d298cb092478)
+
 
 Independent Society of Knowledge is a decentralized institute for research and education of science, engineering and philosophy. It is based on three core values, Decentralization, Open-Access, and Collaboration. The target audience of our products are people who respect these core values. We strive to build frameworks, platforms, and engagements that promotes our ideas in academia, facilitating knowledge sharing, promoting interdisciplinary collaboration, and bridging the gap between academia and industry.
 
