@@ -44,6 +44,3 @@ By joining ISK, you’ll be part of a pioneering movement to create a more inclu
 
 Feel free to explore our repositories, contribute to our projects, and become an integral part of the ISK community. We’re excited to collaborate with you!
 
---- 
-### Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=independent-society-of-knowledge&show_icons=true&theme=radical)
